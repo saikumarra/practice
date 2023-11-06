@@ -3,3 +3,5 @@ green
 white
 yellow
 blue
+pink
+orange
